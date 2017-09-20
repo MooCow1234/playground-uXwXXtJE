@@ -1,6 +1,8 @@
 # Welcome!
 
-This C++ template lets you get started quickly with a simple one-page playground.
+This code comes from the comic strip FoxTrot.
+
+https://i.pinimg.com/originals/dc/bd/87/dcbd87751f957950eba116ef482543ed.gif
 
 ```C++ runnable
 #include <iostream>
@@ -13,7 +15,3 @@ int main()
     return 0;
 }
 ```
-
-# Advanced usage
-
-If you want a more complex example (external libraries, viewers...), use the [Advanced C++ template](https://tech.io/select-repo/598)
