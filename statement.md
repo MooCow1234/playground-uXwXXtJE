@@ -1,4 +1,4 @@
-# Run the FoxTrot Whiteboard Code!
+# Run the FoxTrot Blackboard Code!
 
 This code comes from the comic strip FoxTrot.
 
